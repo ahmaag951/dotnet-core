@@ -1,0 +1,7 @@
+c:\users\a.ezzat.apexunited\source\repos\test read from excel file\test read from excel file\bin\Debug\test read from excel file.exe.config
+c:\users\a.ezzat.apexunited\source\repos\test read from excel file\test read from excel file\bin\Debug\test read from excel file.exe
+c:\users\a.ezzat.apexunited\source\repos\test read from excel file\test read from excel file\bin\Debug\test read from excel file.pdb
+c:\users\a.ezzat.apexunited\source\repos\test read from excel file\test read from excel file\obj\Debug\test read from excel file.csprojResolveAssemblyReference.cache
+c:\users\a.ezzat.apexunited\source\repos\test read from excel file\test read from excel file\obj\Debug\test read from excel file.csproj.CoreCompileInputs.cache
+c:\users\a.ezzat.apexunited\source\repos\test read from excel file\test read from excel file\obj\Debug\test read from excel file.exe
+c:\users\a.ezzat.apexunited\source\repos\test read from excel file\test read from excel file\obj\Debug\test read from excel file.pdb

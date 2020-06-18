@@ -1,0 +1,30 @@
+C:\Users\a.ezzat.APEXUNITED\source\repos\test jwt\test jwt\bin\Debug\netcoreapp2.2\test jwt.deps.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test jwt\test jwt\bin\Debug\netcoreapp2.2\test jwt.runtimeconfig.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test jwt\test jwt\bin\Debug\netcoreapp2.2\test jwt.runtimeconfig.dev.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test jwt\test jwt\bin\Debug\netcoreapp2.2\test jwt.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\test jwt\test jwt\bin\Debug\netcoreapp2.2\test jwt.pdb
+C:\Users\a.ezzat.APEXUNITED\source\repos\test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.csprojAssemblyReference.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.csproj.CoreCompileInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.RazorAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.RazorAssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.AssemblyInfoInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.AssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.RazorTargetAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.pdb
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\bin\Debug\netcoreapp2.2\appsettings.json
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\bin\Debug\netcoreapp2.2\test jwt.deps.json
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\bin\Debug\netcoreapp2.2\test jwt.runtimeconfig.json
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\bin\Debug\netcoreapp2.2\test jwt.runtimeconfig.dev.json
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\bin\Debug\netcoreapp2.2\test jwt.dll
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\bin\Debug\netcoreapp2.2\test jwt.pdb
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.csprojAssemblyReference.cache
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.RazorAssemblyInfo.cache
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.RazorAssemblyInfo.cs
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.AssemblyInfoInputs.cache
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.AssemblyInfo.cs
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.RazorTargetAssemblyInfo.cache
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.dll
+F:\CS\Samples\Backend\dotnet core\13.test jwt\test jwt\obj\Debug\netcoreapp2.2\test jwt.pdb

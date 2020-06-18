@@ -1,0 +1,14 @@
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\test_cross_origin\bin\Debug\netcoreapp2.2\test_cross_origin.deps.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\test_cross_origin\bin\Debug\netcoreapp2.2\test_cross_origin.runtimeconfig.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\test_cross_origin\bin\Debug\netcoreapp2.2\test_cross_origin.runtimeconfig.dev.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\test_cross_origin\bin\Debug\netcoreapp2.2\test_cross_origin.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\test_cross_origin\bin\Debug\netcoreapp2.2\test_cross_origin.pdb
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\test_cross_origin\obj\Debug\netcoreapp2.2\test_cross_origin.csprojAssemblyReference.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\test_cross_origin\obj\Debug\netcoreapp2.2\test_cross_origin.csproj.CoreCompileInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\test_cross_origin\obj\Debug\netcoreapp2.2\test_cross_origin.RazorAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\test_cross_origin\obj\Debug\netcoreapp2.2\test_cross_origin.RazorAssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\test_cross_origin\obj\Debug\netcoreapp2.2\test_cross_origin.AssemblyInfoInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\test_cross_origin\obj\Debug\netcoreapp2.2\test_cross_origin.AssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\test_cross_origin\obj\Debug\netcoreapp2.2\test_cross_origin.RazorTargetAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\test_cross_origin\obj\Debug\netcoreapp2.2\test_cross_origin.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\test_cross_origin\obj\Debug\netcoreapp2.2\test_cross_origin.pdb

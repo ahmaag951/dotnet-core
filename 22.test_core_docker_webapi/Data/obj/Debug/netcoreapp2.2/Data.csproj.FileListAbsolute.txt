@@ -1,0 +1,11 @@
+C:\Users\a.ezzat.APEXUNITED\Desktop\test_core_docker_webapi\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+C:\Users\a.ezzat.APEXUNITED\Desktop\test_core_docker_webapi\Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.json
+C:\Users\a.ezzat.APEXUNITED\Desktop\test_core_docker_webapi\Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.dev.json
+C:\Users\a.ezzat.APEXUNITED\Desktop\test_core_docker_webapi\Data\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\a.ezzat.APEXUNITED\Desktop\test_core_docker_webapi\Data\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\a.ezzat.APEXUNITED\Desktop\test_core_docker_webapi\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+C:\Users\a.ezzat.APEXUNITED\Desktop\test_core_docker_webapi\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+C:\Users\a.ezzat.APEXUNITED\Desktop\test_core_docker_webapi\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\Users\a.ezzat.APEXUNITED\Desktop\test_core_docker_webapi\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\Desktop\test_core_docker_webapi\Data\obj\Debug\netcoreapp2.2\Data.dll
+C:\Users\a.ezzat.APEXUNITED\Desktop\test_core_docker_webapi\Data\obj\Debug\netcoreapp2.2\Data.pdb

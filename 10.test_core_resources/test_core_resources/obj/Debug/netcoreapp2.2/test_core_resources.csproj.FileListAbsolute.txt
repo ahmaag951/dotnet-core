@@ -1,0 +1,40 @@
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\test_core_resources.deps.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\test_core_resources.runtimeconfig.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\test_core_resources.runtimeconfig.dev.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\test_core_resources.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\test_core_resources.pdb
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\ar-EG\test_core_resources.resources.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.csprojAssemblyReference.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.Resources.Lookups.resources
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.Resources.Lookups.ar-EG.resources
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.csproj.GenerateResource.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.csproj.CoreCompileInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.RazorAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.RazorAssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.AssemblyInfoInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.AssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\ar-EG\test_core_resources.resources.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.RazorTargetAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.pdb
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\appsettings.json
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\test_core_resources.deps.json
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\test_core_resources.runtimeconfig.json
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\test_core_resources.runtimeconfig.dev.json
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\test_core_resources.dll
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\test_core_resources.pdb
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\bin\Debug\netcoreapp2.2\ar-EG\test_core_resources.resources.dll
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.csprojAssemblyReference.cache
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.Resources.Lookups.resources
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.Resources.Lookups.ar-EG.resources
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.csproj.GenerateResource.cache
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.RazorAssemblyInfo.cache
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.RazorAssemblyInfo.cs
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.AssemblyInfoInputs.cache
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.AssemblyInfo.cs
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\ar-EG\test_core_resources.resources.dll
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.RazorTargetAssemblyInfo.cache
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.dll
+F:\CS\Samples\Backend\dotnet core\10.test_core_resources\test_core_resources\obj\Debug\netcoreapp2.2\test_core_resources.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_core_docker_webapi", "test_core_docker_webapi\test_core_docker_webapi.csproj", "{FBCE04A3-FAF5-45BF-8E46-41EB2FB9FC0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{C168FE4D-E0BF-4D62-934C-0A18F1DE5457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBCE04A3-FAF5-45BF-8E46-41EB2FB9FC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCE04A3-FAF5-45BF-8E46-41EB2FB9FC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCE04A3-FAF5-45BF-8E46-41EB2FB9FC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCE04A3-FAF5-45BF-8E46-41EB2FB9FC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C168FE4D-E0BF-4D62-934C-0A18F1DE5457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C168FE4D-E0BF-4D62-934C-0A18F1DE5457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C168FE4D-E0BF-4D62-934C-0A18F1DE5457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C168FE4D-E0BF-4D62-934C-0A18F1DE5457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79CE26D6-6476-47E3-BA71-739177A8858D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+C:\Users\a.ezzat.APEXUNITED\source\repos\Angular_Session\Angular_Session\bin\Debug\netcoreapp2.1\Angular_Session.deps.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\Angular_Session\Angular_Session\bin\Debug\netcoreapp2.1\Angular_Session.runtimeconfig.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\Angular_Session\Angular_Session\bin\Debug\netcoreapp2.1\Angular_Session.runtimeconfig.dev.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\Angular_Session\Angular_Session\bin\Debug\netcoreapp2.1\Angular_Session.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.csprojAssemblyReference.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.csproj.CoreCompileInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.RazorAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.RazorAssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.AssemblyInfoInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.AssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.RazorTargetAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\Angular_Session\Angular_Session\bin\Debug\netcoreapp2.1\Angular_Session.pdb
+C:\Users\a.ezzat.APEXUNITED\source\repos\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.pdb
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\bin\Debug\netcoreapp2.1\appsettings.json
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\bin\Debug\netcoreapp2.1\Angular_Session.deps.json
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\bin\Debug\netcoreapp2.1\Angular_Session.runtimeconfig.json
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\bin\Debug\netcoreapp2.1\Angular_Session.runtimeconfig.dev.json
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\bin\Debug\netcoreapp2.1\Angular_Session.dll
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\bin\Debug\netcoreapp2.1\Angular_Session.pdb
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.csprojAssemblyReference.cache
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.RazorAssemblyInfo.cache
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.RazorAssemblyInfo.cs
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.AssemblyInfoInputs.cache
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.AssemblyInfo.cs
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.RazorTargetAssemblyInfo.cache
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.dll
+F:\CS\Samples\Backend\dotnet core\Angular_Session\Angular_Session\obj\Debug\netcoreapp2.1\Angular_Session.pdb

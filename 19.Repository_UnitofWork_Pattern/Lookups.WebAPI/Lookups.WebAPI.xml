@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lookups.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="T:Lookups.WebAPI.Controllers.Base.BaseController">
+            <inheritdoc />
+        </member>
+        <member name="M:Lookups.WebAPI.Controllers.Base.BaseController.#ctor">
+            <inheritdoc />
+        </member>
+        <member name="T:Lookups.WebAPI.Controllers.CountriesController">
+            <inheritdoc />
+        </member>
+        <member name="M:Lookups.WebAPI.Controllers.CountriesController.#ctor(Lookups.Service.Interfaces.ICountryService)">
+            <inheritdoc />
+        </member>
+        <member name="M:Lookups.WebAPI.Controllers.CountriesController.GetAllPaged(Lookups.Service.FilterDto.CountryFilterDto,Common.Infrastructure.PagingSortingDto)">
+            <summary>
+            Get data pagged 
+            </summary>
+            <param name="filteringDto"> Search filter</param>
+            <param name="pagingSortingDto">Sort Parameters</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lookups.WebAPI.Controllers.CountriesController.GetAll">
+            <summary>
+            Get all data 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Lookups.WebAPI.Controllers.CountriesController.Get(System.Guid)">
+            <summary>
+            Get data by Id
+            </summary>
+            <param name="id">PK Column Id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lookups.WebAPI.Controllers.CountriesController.Add(Lookups.Service.Dto.CountryDto)">
+            <summary>
+            Insert new
+            </summary>
+            <param name="countryDto">Inserted object</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lookups.WebAPI.Controllers.CountriesController.Update(Lookups.Service.Dto.CountryDto)">
+            <summary>
+            Update data
+            </summary>
+            <param name="countryDto">Updated Object</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lookups.WebAPI.Controllers.CountriesController.Delete(System.Guid)">
+            <summary>
+            Delete data by Id
+            </summary>
+            <param name="id">PK Column Id</param>
+            <returns></returns>
+        </member>
+        <member name="T:Lookups.WebAPI.Program">
+            <inheritdoc />
+        </member>
+        <member name="M:Lookups.WebAPI.Program.Main(System.String[])">
+            <inheritdoc />
+        </member>
+        <member name="M:Lookups.WebAPI.Program.CreateWebHostBuilder(System.String[])">
+            <inheritdoc />
+        </member>
+        <member name="T:Lookups.WebAPI.Startup">
+            <inheritdoc />
+        </member>
+        <member name="M:Lookups.WebAPI.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <inheritdoc />
+        </member>
+        <member name="P:Lookups.WebAPI.Startup.Configuration">
+            <inheritdoc />
+        </member>
+        <member name="M:Lookups.WebAPI.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services">Specifies the contract for a collection of service descriptors</param>
+        </member>
+        <member name="M:Lookups.WebAPI.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app">Define a class that provides the mechanisms to configure an application's request pipline</param>
+            <param name="env">Provides information about the web hosting environment an application is running in</param>
+        </member>
+    </members>
+</doc>

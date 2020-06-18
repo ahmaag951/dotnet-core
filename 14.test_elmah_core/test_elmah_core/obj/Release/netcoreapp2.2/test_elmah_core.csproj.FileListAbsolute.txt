@@ -1,0 +1,14 @@
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_elmah_core\test_elmah_core\bin\Release\netcoreapp2.2\test_elmah_core.deps.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_elmah_core\test_elmah_core\bin\Release\netcoreapp2.2\test_elmah_core.runtimeconfig.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_elmah_core\test_elmah_core\bin\Release\netcoreapp2.2\test_elmah_core.runtimeconfig.dev.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_elmah_core\test_elmah_core\bin\Release\netcoreapp2.2\test_elmah_core.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_elmah_core\test_elmah_core\bin\Release\netcoreapp2.2\test_elmah_core.pdb
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_elmah_core\test_elmah_core\obj\Release\netcoreapp2.2\test_elmah_core.csprojAssemblyReference.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_elmah_core\test_elmah_core\obj\Release\netcoreapp2.2\test_elmah_core.csproj.CoreCompileInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_elmah_core\test_elmah_core\obj\Release\netcoreapp2.2\test_elmah_core.RazorAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_elmah_core\test_elmah_core\obj\Release\netcoreapp2.2\test_elmah_core.RazorAssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_elmah_core\test_elmah_core\obj\Release\netcoreapp2.2\test_elmah_core.AssemblyInfoInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_elmah_core\test_elmah_core\obj\Release\netcoreapp2.2\test_elmah_core.AssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_elmah_core\test_elmah_core\obj\Release\netcoreapp2.2\test_elmah_core.RazorTargetAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_elmah_core\test_elmah_core\obj\Release\netcoreapp2.2\test_elmah_core.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_elmah_core\test_elmah_core\obj\Release\netcoreapp2.2\test_elmah_core.pdb

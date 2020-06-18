@@ -1,0 +1,6 @@
+F:\CS\dotnet core\samples\24.WcfService1\WcfService1\bin\WcfService1.dll.config
+F:\CS\dotnet core\samples\24.WcfService1\WcfService1\bin\WcfService1.dll
+F:\CS\dotnet core\samples\24.WcfService1\WcfService1\bin\WcfService1.pdb
+F:\CS\dotnet core\samples\24.WcfService1\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+F:\CS\dotnet core\samples\24.WcfService1\WcfService1\obj\Debug\WcfService1.dll
+F:\CS\dotnet core\samples\24.WcfService1\WcfService1\obj\Debug\WcfService1.pdb

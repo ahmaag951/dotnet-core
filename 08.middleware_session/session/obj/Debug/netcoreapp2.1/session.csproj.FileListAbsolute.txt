@@ -1,0 +1,14 @@
+C:\Users\a.ezzat.APEXUNITED\source\repos\session\session\bin\Debug\netcoreapp2.1\session.deps.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\session\session\bin\Debug\netcoreapp2.1\session.runtimeconfig.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\session\session\bin\Debug\netcoreapp2.1\session.runtimeconfig.dev.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\session\session\bin\Debug\netcoreapp2.1\session.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\session\session\bin\Debug\netcoreapp2.1\session.pdb
+C:\Users\a.ezzat.APEXUNITED\source\repos\session\session\obj\Debug\netcoreapp2.1\session.csprojAssemblyReference.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\session\session\obj\Debug\netcoreapp2.1\session.csproj.CoreCompileInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\session\session\obj\Debug\netcoreapp2.1\session.RazorAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\session\session\obj\Debug\netcoreapp2.1\session.RazorAssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\session\session\obj\Debug\netcoreapp2.1\session.AssemblyInfoInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\session\session\obj\Debug\netcoreapp2.1\session.AssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\session\session\obj\Debug\netcoreapp2.1\session.RazorTargetAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\session\session\obj\Debug\netcoreapp2.1\session.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\session\session\obj\Debug\netcoreapp2.1\session.pdb

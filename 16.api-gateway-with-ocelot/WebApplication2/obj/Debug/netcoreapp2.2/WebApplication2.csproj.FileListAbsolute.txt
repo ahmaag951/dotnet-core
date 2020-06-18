@@ -1,0 +1,44 @@
+D:\project\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.deps.json
+D:\project\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.json
+D:\project\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.dev.json
+D:\project\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.dll
+D:\project\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.pdb
+D:\project\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csprojAssemblyReference.cache
+D:\project\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csproj.CoreCompileInputs.cache
+D:\project\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cache
+D:\project\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cs
+D:\project\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfoInputs.cache
+D:\project\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfo.cs
+D:\project\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorTargetAssemblyInfo.cache
+D:\project\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.dll
+D:\project\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.pdb
+D:\samples\backend\api-gateway\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.deps.json
+D:\samples\backend\api-gateway\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.json
+D:\samples\backend\api-gateway\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.dev.json
+D:\samples\backend\api-gateway\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.dll
+D:\samples\backend\api-gateway\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.pdb
+D:\samples\backend\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csprojAssemblyReference.cache
+D:\samples\backend\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csproj.CoreCompileInputs.cache
+D:\samples\backend\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cache
+D:\samples\backend\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cs
+D:\samples\backend\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfoInputs.cache
+D:\samples\backend\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfo.cs
+D:\samples\backend\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorTargetAssemblyInfo.cache
+D:\samples\backend\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.dll
+D:\samples\backend\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.pdb
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\bin\Debug\netcoreapp2.2\appsettings.json
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.deps.json
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.json
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.dev.json
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.dll
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.pdb
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csprojAssemblyReference.cache
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cache
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cs
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfoInputs.cache
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfo.cs
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorTargetAssemblyInfo.cache
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.dll
+F:\CS\dotnet core\samples\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.pdb

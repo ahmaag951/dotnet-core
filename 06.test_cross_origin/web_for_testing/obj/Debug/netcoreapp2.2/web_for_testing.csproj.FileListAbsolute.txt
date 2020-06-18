@@ -1,0 +1,14 @@
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\web_for_testing\bin\Debug\netcoreapp2.2\web_for_testing.deps.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\web_for_testing\bin\Debug\netcoreapp2.2\web_for_testing.runtimeconfig.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\web_for_testing\bin\Debug\netcoreapp2.2\web_for_testing.runtimeconfig.dev.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\web_for_testing\bin\Debug\netcoreapp2.2\web_for_testing.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\web_for_testing\bin\Debug\netcoreapp2.2\web_for_testing.pdb
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\web_for_testing\obj\Debug\netcoreapp2.2\web_for_testing.csprojAssemblyReference.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\web_for_testing\obj\Debug\netcoreapp2.2\web_for_testing.csproj.CoreCompileInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\web_for_testing\obj\Debug\netcoreapp2.2\web_for_testing.RazorAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\web_for_testing\obj\Debug\netcoreapp2.2\web_for_testing.RazorAssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\web_for_testing\obj\Debug\netcoreapp2.2\web_for_testing.AssemblyInfoInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\web_for_testing\obj\Debug\netcoreapp2.2\web_for_testing.AssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\web_for_testing\obj\Debug\netcoreapp2.2\web_for_testing.RazorTargetAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\web_for_testing\obj\Debug\netcoreapp2.2\web_for_testing.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\test_cross_origin\web_for_testing\obj\Debug\netcoreapp2.2\web_for_testing.pdb

@@ -1,0 +1,25 @@
+c:\users\ad\source\repos\WebApplication1Core2\WebApplication1Core2\bin\Debug\netcoreapp2.0\WebApplication1Core2.deps.json
+c:\users\ad\source\repos\WebApplication1Core2\WebApplication1Core2\bin\Debug\netcoreapp2.0\WebApplication1Core2.runtimeconfig.json
+c:\users\ad\source\repos\WebApplication1Core2\WebApplication1Core2\bin\Debug\netcoreapp2.0\WebApplication1Core2.runtimeconfig.dev.json
+c:\users\ad\source\repos\WebApplication1Core2\WebApplication1Core2\bin\Debug\netcoreapp2.0\WebApplication1Core2.dll
+c:\users\ad\source\repos\WebApplication1Core2\WebApplication1Core2\bin\Debug\netcoreapp2.0\WebApplication1Core2.pdb
+c:\users\ad\source\repos\WebApplication1Core2\WebApplication1Core2\obj\Debug\netcoreapp2.0\WebApplication1Core2.csprojResolveAssemblyReference.cache
+c:\users\ad\source\repos\WebApplication1Core2\WebApplication1Core2\obj\Debug\netcoreapp2.0\WebApplication1Core2.csproj.CoreCompileInputs.cache
+c:\users\ad\source\repos\WebApplication1Core2\WebApplication1Core2\obj\Debug\netcoreapp2.0\WebApplication1Core2.AssemblyInfoInputs.cache
+c:\users\ad\source\repos\WebApplication1Core2\WebApplication1Core2\obj\Debug\netcoreapp2.0\WebApplication1Core2.AssemblyInfo.cs
+c:\users\ad\source\repos\WebApplication1Core2\WebApplication1Core2\obj\Debug\netcoreapp2.0\WebApplication1Core2.dll
+c:\users\ad\source\repos\WebApplication1Core2\WebApplication1Core2\obj\Debug\netcoreapp2.0\WebApplication1Core2.pdb
+F:\CS\dotnet core\samples\WebApplication1Core2\WebApplication1Core2\bin\Debug\netcoreapp2.0\appsettings.Development.json
+F:\CS\dotnet core\samples\WebApplication1Core2\WebApplication1Core2\bin\Debug\netcoreapp2.0\appsettings.json
+F:\CS\dotnet core\samples\WebApplication1Core2\WebApplication1Core2\bin\Debug\netcoreapp2.0\bundleconfig.json
+F:\CS\dotnet core\samples\WebApplication1Core2\WebApplication1Core2\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+F:\CS\dotnet core\samples\WebApplication1Core2\WebApplication1Core2\bin\Debug\netcoreapp2.0\WebApplication1Core2.deps.json
+F:\CS\dotnet core\samples\WebApplication1Core2\WebApplication1Core2\bin\Debug\netcoreapp2.0\WebApplication1Core2.runtimeconfig.json
+F:\CS\dotnet core\samples\WebApplication1Core2\WebApplication1Core2\bin\Debug\netcoreapp2.0\WebApplication1Core2.runtimeconfig.dev.json
+F:\CS\dotnet core\samples\WebApplication1Core2\WebApplication1Core2\bin\Debug\netcoreapp2.0\WebApplication1Core2.dll
+F:\CS\dotnet core\samples\WebApplication1Core2\WebApplication1Core2\bin\Debug\netcoreapp2.0\WebApplication1Core2.pdb
+F:\CS\dotnet core\samples\WebApplication1Core2\WebApplication1Core2\obj\Debug\netcoreapp2.0\WebApplication1Core2.csprojAssemblyReference.cache
+F:\CS\dotnet core\samples\WebApplication1Core2\WebApplication1Core2\obj\Debug\netcoreapp2.0\WebApplication1Core2.AssemblyInfoInputs.cache
+F:\CS\dotnet core\samples\WebApplication1Core2\WebApplication1Core2\obj\Debug\netcoreapp2.0\WebApplication1Core2.AssemblyInfo.cs
+F:\CS\dotnet core\samples\WebApplication1Core2\WebApplication1Core2\obj\Debug\netcoreapp2.0\WebApplication1Core2.dll
+F:\CS\dotnet core\samples\WebApplication1Core2\WebApplication1Core2\obj\Debug\netcoreapp2.0\WebApplication1Core2.pdb
