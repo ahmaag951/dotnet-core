@@ -25,6 +25,7 @@ namespace test_rest_sharp.Controllers
         {
             // we need to call https://localhost:44313/api/values
             var test = _serviceCommunication.GetList<string>("values").Result;
+            _serviceCommunication.Post<string>("values", "string example to be sent in body");
 
             return Ok(test);
         }

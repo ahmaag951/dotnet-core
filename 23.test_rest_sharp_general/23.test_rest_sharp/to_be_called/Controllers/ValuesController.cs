@@ -10,11 +10,15 @@ namespace to_be_called.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
-        // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
             return new string[] { "value1", "value2" };
+        }
+
+        [HttpPost]
+        public void Post([FromBody] string value)
+        {
         }
 
     }

@@ -8,6 +8,7 @@ namespace test_rest_sharp.Communication
     {
         Task<T> Get<T>(string url);
         Task<IEnumerable<T>> GetList<T>(string url);
+        Task Post<T>(string url, T obj);
 
     }
 }

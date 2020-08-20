@@ -21,7 +21,20 @@ namespace test_rest_sharp.RestSharp
             _serverUri = serverUri;
             _client = new RestClient { Timeout = Timeout.Infinite, ReadWriteTimeout = Timeout.Infinite };
         }
-        public async Task<T> SendRequest<T>(string uri, Method method, object obj = null)
+        public async Task<T> GetRequest<T>(string uri, Method method)
+        {
+            _client.CookieContainer = new CookieContainer();
+            var request = new RestRequest($"{_serverUri}{uri}", method);
+
+            request.AddHeader("lang", _httpContextAccessor?.HttpContext?.Request?.Headers["lang"] ?? "en-US");
+            var response = await _client.ExecuteAsync<T>(request);
+            T data;
+            try { data = Newtonsoft.Json.JsonConvert.DeserializeObject<T>(response.Content); }
+            catch (Exception) { data = default(T); }
+            return data == null ? response.Data : data;
+        }
+
+        public async Task SendRequest<T>(string uri, Method method, T obj)
         {
             _client.CookieContainer = new CookieContainer();
             var request = new RestRequest($"{_serverUri}{uri}", method);
@@ -31,12 +44,9 @@ namespace test_rest_sharp.RestSharp
                 request.AddJsonBody(obj);
             }
             request.AddHeader("lang", _httpContextAccessor?.HttpContext?.Request?.Headers["lang"] ?? "en-US");
-            var response = await _client.ExecuteAsync<T>(request);
-            T data;
-            try { data = Newtonsoft.Json.JsonConvert.DeserializeObject<T>(response.Content); }
-            catch (Exception) { data = default(T); }
-            return data == null ? response.Data : data;
+            await _client.ExecuteAsync<T>(request);            
         }
+
         private void SetJsonContent(RestRequest request, object obj)
         {
             request.RequestFormat = DataFormat.Json;
