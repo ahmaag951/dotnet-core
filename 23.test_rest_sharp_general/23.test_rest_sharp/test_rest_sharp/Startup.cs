@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using test_rest_sharp.Communication;
+using test_rest_sharp.RestSharp;
 
 namespace test_rest_sharp
 {
@@ -26,6 +28,9 @@ namespace test_rest_sharp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            services.AddScoped<IServiceCommunication, ServiceCommunication>();
+            services.AddScoped<IRestSharpContainer>(x => new RestSharpContainer("https://localhost:44313/api/"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
