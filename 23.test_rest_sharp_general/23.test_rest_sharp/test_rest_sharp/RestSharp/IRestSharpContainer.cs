@@ -5,6 +5,6 @@ namespace test_rest_sharp.RestSharp
 {
     public interface IRestSharpContainer
     {
-        Task<T> SendRequest<T>(string uri, Method method, string accessToken = null, object obj = null);
+        Task<T> SendRequest<T>(string uri, Method method, object obj = null);
     }
 }

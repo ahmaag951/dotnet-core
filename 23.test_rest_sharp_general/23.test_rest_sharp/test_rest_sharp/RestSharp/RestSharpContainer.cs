@@ -21,7 +21,7 @@ namespace test_rest_sharp.RestSharp
             _serverUri = serverUri;
             _client = new RestClient { Timeout = Timeout.Infinite, ReadWriteTimeout = Timeout.Infinite };
         }
-        public async Task<T> SendRequest<T>(string uri, Method method, string accessToken = null, object obj = null)
+        public async Task<T> SendRequest<T>(string uri, Method method, object obj = null)
         {
             _client.CookieContainer = new CookieContainer();
             var request = new RestRequest($"{_serverUri}{uri}", method);
@@ -30,7 +30,6 @@ namespace test_rest_sharp.RestSharp
                 SetJsonContent(request, obj);
                 request.AddJsonBody(obj);
             }
-            if (accessToken != null) request.AddHeader("Authorization", accessToken);
             request.AddHeader("lang", _httpContextAccessor?.HttpContext?.Request?.Headers["lang"] ?? "en-US");
             var response = await _client.ExecuteAsync<T>(request);
             T data;
