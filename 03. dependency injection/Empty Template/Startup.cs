@@ -26,7 +26,7 @@ namespace Empty_Template
             services.AddTransient<MyClass>();
 
             // if you want to send parameters to its constructor
-            services.AddTransient<MyClass>(x => new MyClass()
+            services.AddTransient(x => new MyClass()
             {
                 MyProperty = "aaaaaaaaaa"
             });

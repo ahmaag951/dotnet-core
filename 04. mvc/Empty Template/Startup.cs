@@ -13,7 +13,7 @@ namespace Empty_Template
     {
         public void ConfigureServices(IServiceCollection services)
         {
-            // you have to configure theses services becuase mvc depends on them
+            // you have to configure theses services because mvc depends on them
             services.AddMvc();
 
             // this is for the inject in the view

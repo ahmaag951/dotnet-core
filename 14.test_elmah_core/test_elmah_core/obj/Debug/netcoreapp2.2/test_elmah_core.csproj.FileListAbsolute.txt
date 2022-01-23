@@ -28,3 +28,20 @@ F:\CS\Samples\Backend\dotnet core\test_elmah_core\test_elmah_core\obj\Debug\netc
 F:\CS\Samples\Backend\dotnet core\test_elmah_core\test_elmah_core\obj\Debug\netcoreapp2.2\test_elmah_core.RazorTargetAssemblyInfo.cache
 F:\CS\Samples\Backend\dotnet core\test_elmah_core\test_elmah_core\obj\Debug\netcoreapp2.2\test_elmah_core.dll
 F:\CS\Samples\Backend\dotnet core\test_elmah_core\test_elmah_core\obj\Debug\netcoreapp2.2\test_elmah_core.pdb
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\bin\Debug\netcoreapp2.2\appsettings.json
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\bin\Debug\netcoreapp2.2\test_elmah_core.deps.json
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\bin\Debug\netcoreapp2.2\test_elmah_core.runtimeconfig.json
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\bin\Debug\netcoreapp2.2\test_elmah_core.runtimeconfig.dev.json
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\bin\Debug\netcoreapp2.2\test_elmah_core.dll
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\bin\Debug\netcoreapp2.2\test_elmah_core.pdb
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\obj\Debug\netcoreapp2.2\test_elmah_core.csprojAssemblyReference.cache
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\obj\Debug\netcoreapp2.2\test_elmah_core.AssemblyInfoInputs.cache
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\obj\Debug\netcoreapp2.2\test_elmah_core.AssemblyInfo.cs
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\obj\Debug\netcoreapp2.2\test_elmah_core.csproj.CoreCompileInputs.cache
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\obj\Debug\netcoreapp2.2\test_elmah_core.RazorAssemblyInfo.cache
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\obj\Debug\netcoreapp2.2\test_elmah_core.RazorAssemblyInfo.cs
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\obj\Debug\netcoreapp2.2\test_elmah_core.RazorTargetAssemblyInfo.cache
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\obj\Debug\netcoreapp2.2\test_elmah_core.dll
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\obj\Debug\netcoreapp2.2\test_elmah_core.pdb
+D:\CS\samples\github\dotnet-core\14.test_elmah_core\test_elmah_core\obj\Debug\netcoreapp2.2\test_elmah_core.genruntimeconfig.cache

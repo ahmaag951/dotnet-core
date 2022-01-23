@@ -1,9 +1,4 @@
-﻿using FizzWare.NBuilder;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace NBuilderAndFaker
 {
@@ -25,10 +20,7 @@ namespace NBuilderAndFaker
             //        LastName ="lname", TelephoneNumber = "tel"
             //    });
             
-
             base.OnModelCreating(modelBuilder);
         }
-
-
     }
 }

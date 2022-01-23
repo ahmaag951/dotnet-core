@@ -20,3 +20,15 @@ E:\dot net core course\Empty Template\Empty Template\obj\Debug\netcoreapp2.0\Emp
 E:\dot net core course\Empty Template\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.AssemblyInfo.cs
 E:\dot net core course\Empty Template\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.dll
 E:\dot net core course\Empty Template\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.pdb
+D:\CS\samples\github\dotnet-core\01. middlewere and run and use\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.dll
+D:\CS\samples\github\dotnet-core\01. middlewere and run and use\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.pdb
+D:\CS\samples\github\dotnet-core\01. middlewere and run and use\Empty Template\bin\Debug\netcoreapp2.0\Empty Template.deps.json
+D:\CS\samples\github\dotnet-core\01. middlewere and run and use\Empty Template\bin\Debug\netcoreapp2.0\Empty Template.runtimeconfig.json
+D:\CS\samples\github\dotnet-core\01. middlewere and run and use\Empty Template\bin\Debug\netcoreapp2.0\Empty Template.runtimeconfig.dev.json
+D:\CS\samples\github\dotnet-core\01. middlewere and run and use\Empty Template\bin\Debug\netcoreapp2.0\Empty Template.dll
+D:\CS\samples\github\dotnet-core\01. middlewere and run and use\Empty Template\bin\Debug\netcoreapp2.0\Empty Template.pdb
+D:\CS\samples\github\dotnet-core\01. middlewere and run and use\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.csprojAssemblyReference.cache
+D:\CS\samples\github\dotnet-core\01. middlewere and run and use\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.AssemblyInfoInputs.cache
+D:\CS\samples\github\dotnet-core\01. middlewere and run and use\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.AssemblyInfo.cs
+D:\CS\samples\github\dotnet-core\01. middlewere and run and use\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.csproj.CoreCompileInputs.cache
+D:\CS\samples\github\dotnet-core\01. middlewere and run and use\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.genruntimeconfig.cache

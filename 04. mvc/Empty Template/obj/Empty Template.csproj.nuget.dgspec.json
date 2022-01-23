@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CS\\Samples\\Backend\\dotnet core\\dot net core course\\4. mvc\\Empty Template\\Empty Template.csproj": {}
+    "D:\\CS\\samples\\github\\dotnet-core\\04. mvc\\Empty Template\\Empty Template.csproj": {}
   },
   "projects": {
-    "F:\\CS\\Samples\\Backend\\dotnet core\\dot net core course\\4. mvc\\Empty Template\\Empty Template.csproj": {
+    "D:\\CS\\samples\\github\\dotnet-core\\04. mvc\\Empty Template\\Empty Template.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CS\\Samples\\Backend\\dotnet core\\dot net core course\\4. mvc\\Empty Template\\Empty Template.csproj",
+        "projectUniqueName": "D:\\CS\\samples\\github\\dotnet-core\\04. mvc\\Empty Template\\Empty Template.csproj",
         "projectName": "Empty Template",
-        "projectPath": "F:\\CS\\Samples\\Backend\\dotnet core\\dot net core course\\4. mvc\\Empty Template\\Empty Template.csproj",
+        "projectPath": "D:\\CS\\samples\\github\\dotnet-core\\04. mvc\\Empty Template\\Empty Template.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\CS\\Samples\\Backend\\dotnet core\\dot net core course\\4. mvc\\Empty Template\\obj\\",
+        "outputPath": "D:\\CS\\samples\\github\\dotnet-core\\04. mvc\\Empty Template\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
           "dependencies": {
             "Microsoft.AspNetCore.All": {
               "target": "Package",
@@ -66,7 +68,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

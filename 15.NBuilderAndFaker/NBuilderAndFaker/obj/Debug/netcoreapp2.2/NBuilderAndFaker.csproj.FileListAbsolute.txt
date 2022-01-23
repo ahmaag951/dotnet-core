@@ -9,3 +9,15 @@ C:\Users\a.ezzat.APEXUNITED\source\repos\NBuilderAndFaker\NBuilderAndFaker\obj\D
 C:\Users\a.ezzat.APEXUNITED\source\repos\NBuilderAndFaker\NBuilderAndFaker\bin\Debug\netcoreapp2.2\NBuilderAndFaker.pdb
 C:\Users\a.ezzat.APEXUNITED\source\repos\NBuilderAndFaker\NBuilderAndFaker\obj\Debug\netcoreapp2.2\NBuilderAndFaker.dll
 C:\Users\a.ezzat.APEXUNITED\source\repos\NBuilderAndFaker\NBuilderAndFaker\obj\Debug\netcoreapp2.2\NBuilderAndFaker.pdb
+D:\CS\samples\github\dotnet-core\15.NBuilderAndFaker\NBuilderAndFaker\bin\Debug\netcoreapp2.2\NBuilderAndFaker.deps.json
+D:\CS\samples\github\dotnet-core\15.NBuilderAndFaker\NBuilderAndFaker\bin\Debug\netcoreapp2.2\NBuilderAndFaker.runtimeconfig.json
+D:\CS\samples\github\dotnet-core\15.NBuilderAndFaker\NBuilderAndFaker\bin\Debug\netcoreapp2.2\NBuilderAndFaker.runtimeconfig.dev.json
+D:\CS\samples\github\dotnet-core\15.NBuilderAndFaker\NBuilderAndFaker\bin\Debug\netcoreapp2.2\NBuilderAndFaker.dll
+D:\CS\samples\github\dotnet-core\15.NBuilderAndFaker\NBuilderAndFaker\bin\Debug\netcoreapp2.2\NBuilderAndFaker.pdb
+D:\CS\samples\github\dotnet-core\15.NBuilderAndFaker\NBuilderAndFaker\obj\Debug\netcoreapp2.2\NBuilderAndFaker.csprojAssemblyReference.cache
+D:\CS\samples\github\dotnet-core\15.NBuilderAndFaker\NBuilderAndFaker\obj\Debug\netcoreapp2.2\NBuilderAndFaker.AssemblyInfoInputs.cache
+D:\CS\samples\github\dotnet-core\15.NBuilderAndFaker\NBuilderAndFaker\obj\Debug\netcoreapp2.2\NBuilderAndFaker.AssemblyInfo.cs
+D:\CS\samples\github\dotnet-core\15.NBuilderAndFaker\NBuilderAndFaker\obj\Debug\netcoreapp2.2\NBuilderAndFaker.csproj.CoreCompileInputs.cache
+D:\CS\samples\github\dotnet-core\15.NBuilderAndFaker\NBuilderAndFaker\obj\Debug\netcoreapp2.2\NBuilderAndFaker.dll
+D:\CS\samples\github\dotnet-core\15.NBuilderAndFaker\NBuilderAndFaker\obj\Debug\netcoreapp2.2\NBuilderAndFaker.pdb
+D:\CS\samples\github\dotnet-core\15.NBuilderAndFaker\NBuilderAndFaker\obj\Debug\netcoreapp2.2\NBuilderAndFaker.genruntimeconfig.cache

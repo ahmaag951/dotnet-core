@@ -20,7 +20,7 @@ namespace read_settings_from_json.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-
+            var debug = _configuration["myCustomKey"];
             return new string[] { _configuration.GetValue<String>("myCustomKey"), "value2" };
         }
 

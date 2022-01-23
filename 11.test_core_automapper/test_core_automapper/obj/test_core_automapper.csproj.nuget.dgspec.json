@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CS\\Samples\\Backend\\dotnet core\\11.test_core_automapper\\test_core_automapper\\test_core_automapper.csproj": {}
+    "D:\\CS\\samples\\github\\dotnet-core\\11.test_core_automapper\\test_core_automapper\\test_core_automapper.csproj": {}
   },
   "projects": {
-    "F:\\CS\\Samples\\Backend\\dotnet core\\11.test_core_automapper\\test_core_automapper\\test_core_automapper.csproj": {
+    "D:\\CS\\samples\\github\\dotnet-core\\11.test_core_automapper\\test_core_automapper\\test_core_automapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CS\\Samples\\Backend\\dotnet core\\11.test_core_automapper\\test_core_automapper\\test_core_automapper.csproj",
+        "projectUniqueName": "D:\\CS\\samples\\github\\dotnet-core\\11.test_core_automapper\\test_core_automapper\\test_core_automapper.csproj",
         "projectName": "test_core_automapper",
-        "projectPath": "F:\\CS\\Samples\\Backend\\dotnet core\\11.test_core_automapper\\test_core_automapper\\test_core_automapper.csproj",
+        "projectPath": "D:\\CS\\samples\\github\\dotnet-core\\11.test_core_automapper\\test_core_automapper\\test_core_automapper.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\CS\\Samples\\Backend\\dotnet core\\11.test_core_automapper\\test_core_automapper\\obj\\",
+        "outputPath": "D:\\CS\\samples\\github\\dotnet-core\\11.test_core_automapper\\test_core_automapper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -73,7 +75,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -32,3 +32,16 @@ F:\CS\Samples\Backend\dotnet core\dot net core course\2. static files and config
 F:\CS\Samples\Backend\dotnet core\dot net core course\2. static files and configurations\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.AssemblyInfo.cs
 F:\CS\Samples\Backend\dotnet core\dot net core course\2. static files and configurations\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.dll
 F:\CS\Samples\Backend\dotnet core\dot net core course\2. static files and configurations\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.pdb
+D:\CS\samples\github\dotnet-core\02. static files and configurations\Empty Template\bin\Debug\netcoreapp2.0\config.json
+D:\CS\samples\github\dotnet-core\02. static files and configurations\Empty Template\bin\Debug\netcoreapp2.0\Empty Template.deps.json
+D:\CS\samples\github\dotnet-core\02. static files and configurations\Empty Template\bin\Debug\netcoreapp2.0\Empty Template.runtimeconfig.json
+D:\CS\samples\github\dotnet-core\02. static files and configurations\Empty Template\bin\Debug\netcoreapp2.0\Empty Template.runtimeconfig.dev.json
+D:\CS\samples\github\dotnet-core\02. static files and configurations\Empty Template\bin\Debug\netcoreapp2.0\Empty Template.dll
+D:\CS\samples\github\dotnet-core\02. static files and configurations\Empty Template\bin\Debug\netcoreapp2.0\Empty Template.pdb
+D:\CS\samples\github\dotnet-core\02. static files and configurations\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.csprojAssemblyReference.cache
+D:\CS\samples\github\dotnet-core\02. static files and configurations\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.AssemblyInfoInputs.cache
+D:\CS\samples\github\dotnet-core\02. static files and configurations\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.AssemblyInfo.cs
+D:\CS\samples\github\dotnet-core\02. static files and configurations\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.csproj.CoreCompileInputs.cache
+D:\CS\samples\github\dotnet-core\02. static files and configurations\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.dll
+D:\CS\samples\github\dotnet-core\02. static files and configurations\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.pdb
+D:\CS\samples\github\dotnet-core\02. static files and configurations\Empty Template\obj\Debug\netcoreapp2.0\Empty Template.genruntimeconfig.cache

@@ -42,3 +42,20 @@ F:\CS\dotnet core\samples\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\We
 F:\CS\dotnet core\samples\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorTargetAssemblyInfo.cache
 F:\CS\dotnet core\samples\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.dll
 F:\CS\dotnet core\samples\api-gateway\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.pdb
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\bin\Debug\netcoreapp2.2\appsettings.json
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.deps.json
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.json
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.dev.json
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.dll
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.pdb
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csprojAssemblyReference.cache
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfoInputs.cache
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfo.cs
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csproj.CoreCompileInputs.cache
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cache
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cs
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorTargetAssemblyInfo.cache
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.dll
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.pdb
+D:\CS\samples\github\dotnet-core\16.api-gateway-with-ocelot\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.genruntimeconfig.cache

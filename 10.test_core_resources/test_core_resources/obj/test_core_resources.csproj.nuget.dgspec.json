@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CS\\Samples\\Backend\\dotnet core\\10.test_core_resources\\test_core_resources\\test_core_resources.csproj": {}
+    "D:\\CS\\samples\\github\\dotnet-core\\10.test_core_resources\\test_core_resources\\test_core_resources.csproj": {}
   },
   "projects": {
-    "F:\\CS\\Samples\\Backend\\dotnet core\\10.test_core_resources\\test_core_resources\\test_core_resources.csproj": {
+    "D:\\CS\\samples\\github\\dotnet-core\\10.test_core_resources\\test_core_resources\\test_core_resources.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CS\\Samples\\Backend\\dotnet core\\10.test_core_resources\\test_core_resources\\test_core_resources.csproj",
+        "projectUniqueName": "D:\\CS\\samples\\github\\dotnet-core\\10.test_core_resources\\test_core_resources\\test_core_resources.csproj",
         "projectName": "test_core_resources",
-        "projectPath": "F:\\CS\\Samples\\Backend\\dotnet core\\10.test_core_resources\\test_core_resources\\test_core_resources.csproj",
+        "projectPath": "D:\\CS\\samples\\github\\dotnet-core\\10.test_core_resources\\test_core_resources\\test_core_resources.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\CS\\Samples\\Backend\\dotnet core\\10.test_core_resources\\test_core_resources\\obj\\",
+        "outputPath": "D:\\CS\\samples\\github\\dotnet-core\\10.test_core_resources\\test_core_resources\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -69,7 +71,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

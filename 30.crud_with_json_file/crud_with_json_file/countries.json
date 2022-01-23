@@ -1,0 +1,24 @@
+{
+  "countryObj": {
+    "id": 1,
+    "name": "Egypt"
+  },
+  "countries": [
+    {
+      "id": 1,
+      "name": "Egypt"
+    },
+    {
+      "id": 2,
+      "name": "KSA"
+    },
+    {
+      "id": 3,
+      "name": "Moroco"
+    },
+    {
+      "Id": 60,
+      "Name": "Singafora"
+    }
+  ]
+}

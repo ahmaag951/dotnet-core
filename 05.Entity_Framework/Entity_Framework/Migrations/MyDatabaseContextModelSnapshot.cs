@@ -48,6 +48,8 @@ namespace Entity_Framework.Migrations
 
                     b.Property<string>("Name");
 
+                    b.Property<int>("Test");
+
                     b.HasKey("Id");
 
                     b.HasIndex("DeptId");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CS\\Samples\\Backend\\dotnet core\\3.middleware\\middleware\\middleware.csproj": {}
+    "D:\\CS\\samples\\github\\dotnet-core\\08.middleware\\middleware\\middleware.csproj": {}
   },
   "projects": {
-    "F:\\CS\\Samples\\Backend\\dotnet core\\3.middleware\\middleware\\middleware.csproj": {
+    "D:\\CS\\samples\\github\\dotnet-core\\08.middleware\\middleware\\middleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CS\\Samples\\Backend\\dotnet core\\3.middleware\\middleware\\middleware.csproj",
+        "projectUniqueName": "D:\\CS\\samples\\github\\dotnet-core\\08.middleware\\middleware\\middleware.csproj",
         "projectName": "middleware",
-        "projectPath": "F:\\CS\\Samples\\Backend\\dotnet core\\3.middleware\\middleware\\middleware.csproj",
+        "projectPath": "D:\\CS\\samples\\github\\dotnet-core\\08.middleware\\middleware\\middleware.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\CS\\Samples\\Backend\\dotnet core\\3.middleware\\middleware\\obj\\",
+        "outputPath": "D:\\CS\\samples\\github\\dotnet-core\\08.middleware\\middleware\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -73,7 +75,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

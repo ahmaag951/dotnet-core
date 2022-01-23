@@ -20,5 +20,6 @@ namespace Entity_Framework.Models
 
         [ForeignKey("DeptId")]
         public Department Department { get; set; }
+        public int Test { get; set; }
     }
 }

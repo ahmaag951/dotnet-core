@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CS\\Samples\\Backend\\dotnet core\\13.test jwt\\test jwt\\test jwt.csproj": {}
+    "D:\\CS\\samples\\github\\dotnet-core\\13.test jwt and swagger\\test jwt\\test jwt.csproj": {}
   },
   "projects": {
-    "F:\\CS\\Samples\\Backend\\dotnet core\\13.test jwt\\test jwt\\test jwt.csproj": {
+    "D:\\CS\\samples\\github\\dotnet-core\\13.test jwt and swagger\\test jwt\\test jwt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CS\\Samples\\Backend\\dotnet core\\13.test jwt\\test jwt\\test jwt.csproj",
+        "projectUniqueName": "D:\\CS\\samples\\github\\dotnet-core\\13.test jwt and swagger\\test jwt\\test jwt.csproj",
         "projectName": "test jwt",
-        "projectPath": "F:\\CS\\Samples\\Backend\\dotnet core\\13.test jwt\\test jwt\\test jwt.csproj",
+        "projectPath": "D:\\CS\\samples\\github\\dotnet-core\\13.test jwt and swagger\\test jwt\\test jwt.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\CS\\Samples\\Backend\\dotnet core\\13.test jwt\\test jwt\\obj\\",
+        "outputPath": "D:\\CS\\samples\\github\\dotnet-core\\13.test jwt and swagger\\test jwt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -73,7 +75,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

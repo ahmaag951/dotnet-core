@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace test_sql_dependency
 {
@@ -63,8 +59,6 @@ namespace test_sql_dependency
         static void OnDependencyChange(object sender, SqlNotificationEventArgs e)
         {
             var InsertOrUpdateOrDelte = e.Info;
-
-
 
             //-----------------------------Finally-------------------------
             // after you knew that there is a change happened 

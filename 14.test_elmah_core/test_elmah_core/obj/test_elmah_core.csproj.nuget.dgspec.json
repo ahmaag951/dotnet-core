@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CS\\Samples\\Backend\\dotnet core\\test_elmah_core\\test_elmah_core\\test_elmah_core.csproj": {}
+    "D:\\CS\\samples\\github\\dotnet-core\\14.test_elmah_core\\test_elmah_core\\test_elmah_core.csproj": {}
   },
   "projects": {
-    "F:\\CS\\Samples\\Backend\\dotnet core\\test_elmah_core\\test_elmah_core\\test_elmah_core.csproj": {
+    "D:\\CS\\samples\\github\\dotnet-core\\14.test_elmah_core\\test_elmah_core\\test_elmah_core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CS\\Samples\\Backend\\dotnet core\\test_elmah_core\\test_elmah_core\\test_elmah_core.csproj",
+        "projectUniqueName": "D:\\CS\\samples\\github\\dotnet-core\\14.test_elmah_core\\test_elmah_core\\test_elmah_core.csproj",
         "projectName": "test_elmah_core",
-        "projectPath": "F:\\CS\\Samples\\Backend\\dotnet core\\test_elmah_core\\test_elmah_core\\test_elmah_core.csproj",
+        "projectPath": "D:\\CS\\samples\\github\\dotnet-core\\14.test_elmah_core\\test_elmah_core\\test_elmah_core.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\CS\\Samples\\Backend\\dotnet core\\test_elmah_core\\test_elmah_core\\obj\\",
+        "outputPath": "D:\\CS\\samples\\github\\dotnet-core\\14.test_elmah_core\\test_elmah_core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "ElmahCore": {
               "target": "Package",
@@ -73,7 +75,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

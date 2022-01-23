@@ -32,7 +32,7 @@ namespace Entity_Framework
             services.AddDbContext<MyDatabaseContext>(options =>
             {
                 // it's better to get this connection string from the json configuration file
-                var connectionString = "Server=.;Database=testEntityFramework;Trusted_Connection=True;";
+                var connectionString = "Server=.\\MSSQLSERVER01;Database=testEntityFramework;Trusted_Connection=True;";
                 options.UseSqlServer(connectionString);
             });
         }

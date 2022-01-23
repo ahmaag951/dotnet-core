@@ -5,3 +5,10 @@ c:\users\a.ezzat.apexunited\source\repos\test read from excel file\test read fro
 c:\users\a.ezzat.apexunited\source\repos\test read from excel file\test read from excel file\obj\Debug\test read from excel file.csproj.CoreCompileInputs.cache
 c:\users\a.ezzat.apexunited\source\repos\test read from excel file\test read from excel file\obj\Debug\test read from excel file.exe
 c:\users\a.ezzat.apexunited\source\repos\test read from excel file\test read from excel file\obj\Debug\test read from excel file.pdb
+D:\CS\samples\github\dotnet-core\21.test read from excel file\test read from excel file\bin\Debug\test read from excel file.exe.config
+D:\CS\samples\github\dotnet-core\21.test read from excel file\test read from excel file\bin\Debug\test read from excel file.exe
+D:\CS\samples\github\dotnet-core\21.test read from excel file\test read from excel file\bin\Debug\test read from excel file.pdb
+D:\CS\samples\github\dotnet-core\21.test read from excel file\test read from excel file\obj\Debug\test read from excel file.csprojAssemblyReference.cache
+D:\CS\samples\github\dotnet-core\21.test read from excel file\test read from excel file\obj\Debug\test read from excel file.csproj.CoreCompileInputs.cache
+D:\CS\samples\github\dotnet-core\21.test read from excel file\test read from excel file\obj\Debug\test read from excel file.exe
+D:\CS\samples\github\dotnet-core\21.test read from excel file\test read from excel file\obj\Debug\test read from excel file.pdb

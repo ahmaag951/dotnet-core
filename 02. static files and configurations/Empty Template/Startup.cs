@@ -12,8 +12,11 @@ namespace Empty_Template
 {
     public class Startup
     {
-        // This method gets called by the runtime. Use this method to add services to the container.
-        // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
+        IConfiguration Configuration { get; }
+        public Startup(IConfiguration configuration)
+        {
+            Configuration = configuration;
+        }
         public void ConfigureServices(IServiceCollection services)
         {
         }
@@ -28,6 +31,7 @@ namespace Empty_Template
                                     .Build();
             // they are treated as key and value
             var test = configuration["MyCustomEnviornmentVar"];
+            var test2 = Configuration["MyCustomEnviornmentVar"];
             // if you have a boolean value or any other type and you want to convert it on the fly
             bool b = configuration.GetValue<bool>("booleanEnviornmentVar");
 

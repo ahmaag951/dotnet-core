@@ -28,3 +28,20 @@ F:\CS\Samples\Backend\dotnet core\2.test_swagger\test_swagger\obj\Debug\netcorea
 F:\CS\Samples\Backend\dotnet core\2.test_swagger\test_swagger\obj\Debug\netcoreapp2.2\test_swagger.RazorTargetAssemblyInfo.cache
 F:\CS\Samples\Backend\dotnet core\2.test_swagger\test_swagger\obj\Debug\netcoreapp2.2\test_swagger.dll
 F:\CS\Samples\Backend\dotnet core\2.test_swagger\test_swagger\obj\Debug\netcoreapp2.2\test_swagger.pdb
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\bin\Debug\netcoreapp2.2\appsettings.json
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\bin\Debug\netcoreapp2.2\test_swagger.deps.json
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\bin\Debug\netcoreapp2.2\test_swagger.runtimeconfig.json
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\bin\Debug\netcoreapp2.2\test_swagger.runtimeconfig.dev.json
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\bin\Debug\netcoreapp2.2\test_swagger.dll
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\bin\Debug\netcoreapp2.2\test_swagger.pdb
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\obj\Debug\netcoreapp2.2\test_swagger.csprojAssemblyReference.cache
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\obj\Debug\netcoreapp2.2\test_swagger.AssemblyInfoInputs.cache
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\obj\Debug\netcoreapp2.2\test_swagger.AssemblyInfo.cs
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\obj\Debug\netcoreapp2.2\test_swagger.csproj.CoreCompileInputs.cache
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\obj\Debug\netcoreapp2.2\test_swagger.RazorAssemblyInfo.cache
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\obj\Debug\netcoreapp2.2\test_swagger.RazorAssemblyInfo.cs
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\obj\Debug\netcoreapp2.2\test_swagger.RazorTargetAssemblyInfo.cache
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\obj\Debug\netcoreapp2.2\test_swagger.dll
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\obj\Debug\netcoreapp2.2\test_swagger.pdb
+D:\CS\samples\github\dotnet-core\07.test_swagger\test_swagger\obj\Debug\netcoreapp2.2\test_swagger.genruntimeconfig.cache
