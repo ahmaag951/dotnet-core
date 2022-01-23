@@ -1,7 +1,0 @@
-﻿{
-  "EnviornemtVarFromJson": "this is a value from json file configuration",
-
-  "complexObj": {
-    "normalVar" :  "I'm a normal var from a complex obj"
-  }
-}

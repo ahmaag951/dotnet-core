@@ -1,7 +1,0 @@
-C:\Users\ad\source\repos\test_sql_dependency\test_sql_dependency\bin\Debug\test_sql_dependency.exe.config
-C:\Users\ad\source\repos\test_sql_dependency\test_sql_dependency\bin\Debug\test_sql_dependency.exe
-C:\Users\ad\source\repos\test_sql_dependency\test_sql_dependency\bin\Debug\test_sql_dependency.pdb
-C:\Users\ad\source\repos\test_sql_dependency\test_sql_dependency\obj\Debug\test_sql_dependency.csprojResolveAssemblyReference.cache
-C:\Users\ad\source\repos\test_sql_dependency\test_sql_dependency\obj\Debug\test_sql_dependency.csproj.CoreCompileInputs.cache
-C:\Users\ad\source\repos\test_sql_dependency\test_sql_dependency\obj\Debug\test_sql_dependency.exe
-C:\Users\ad\source\repos\test_sql_dependency\test_sql_dependency\obj\Debug\test_sql_dependency.pdb
