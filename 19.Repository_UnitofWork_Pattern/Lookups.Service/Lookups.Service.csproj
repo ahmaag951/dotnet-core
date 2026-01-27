@@ -1,18 +1,18 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <LangVersion>7.2</LangVersion>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
-    <PackageReference Include="NetCore.AutoRegisterDi" Version="1.0.0" />
-    <PackageReference Include="System.Reactive" Version="4.3.2" />
-    <PackageReference Include="TimePeriodLibrary.NET" Version="2.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="NetCore.AutoRegisterDi" Version="2.1.0" />
+    <PackageReference Include="System.Reactive" Version="6.0.0" />
+    <PackageReference Include="TimePeriodLibrary.NET" Version="3.0.0" />
   </ItemGroup>
 
   <ItemGroup>
