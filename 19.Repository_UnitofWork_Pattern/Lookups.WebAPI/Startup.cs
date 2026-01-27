@@ -19,7 +19,7 @@ namespace Lookups.WebAPI
         /// <inheritdoc />
         public IConfiguration Configuration { get; }
         /// <summary>
-        /// This method gets called by the runtime. Use this method to add services to the container.
+        /// Configure services
         /// </summary>
         /// <param name="services">Specifies the contract for a collection of service descriptors</param>
         public void ConfigureServices(IServiceCollection services)
@@ -34,7 +34,7 @@ namespace Lookups.WebAPI
             });
         }
         /// <summary>
-        /// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        /// Configure the HTTP request pipeline
         /// </summary>
         /// <param name="app">Define a class that provides the mechanisms to configure an application's request pipline</param>
         /// <param name="env">Provides information about the web hosting environment an application is running in</param>
