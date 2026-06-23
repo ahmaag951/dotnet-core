@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -24,7 +24,7 @@ namespace test_cross_origin
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddMvc(options => options.EnableEndpointRouting = false).SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             services.AddCors();
         }
@@ -37,16 +37,14 @@ namespace test_cross_origin
             }
             else
             {
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
 
-            // the order here is very very important, if you make it after the UseMvc it wont work
+            // AllowCredentials() cannot be combined with AllowAnyOrigin() - use explicit origin or remove credentials
             app.UseCors(options => options
                 .AllowAnyOrigin()
                 .AllowAnyMethod()
-                .AllowAnyHeader()
-                .AllowCredentials());
+                .AllowAnyHeader());
 
             // if custom origin
             //app.UseCors(options => options

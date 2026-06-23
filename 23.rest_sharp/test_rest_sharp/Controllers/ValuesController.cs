@@ -13,34 +13,35 @@ namespace test_rest_sharp.Controllers
     {
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public async Task<ActionResult<IEnumerable<string>>> Get()
         {
             // we need to call https://localhost:44313/api/values
             var client = new RestClient("https://localhost:44313/api/");
 
             var request = new RestRequest("values");
-            //request.AddParameter("string name", "object value");
 
-            List<string> test = new List<string>();
+            // synchronous GET
+            var response1 = await client.GetAsync(request);
 
-            var response1 = client.Get(request);
-            var response2 = client.ExecuteAsync<List<string>>(request,
-                (response) => test = response.Data);
+            // async execute returning typed response
+            var response2 = await client.ExecuteAsync<List<string>>(request);
+            var test = response2.Data ?? new List<string>();
 
-            TestAwait(client, request);
-
+            await TestAwait(client, request);
 
             return test;
         }
 
-        private void TestAwait(RestClient client, RestRequest request)
+        private async Task TestAwait(RestClient client, RestRequest request)
         {
-            client.ExecuteAsync(request, CallBack);
+            var response = await client.ExecuteAsync(request);
+            CallBack(response);
         }
 
-        private void CallBack(IRestResponse arg1, RestRequestAsyncHandle arg2)
+        private void CallBack(RestResponse response)
         {
-            var debug = arg1.Content;
+            var debug = response.Content;
         }
     }
 }
+

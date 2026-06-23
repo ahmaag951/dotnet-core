@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -44,11 +44,11 @@ namespace hangfire
             // Add the processing server as IHostedService
             services.AddHangfireServer();
 
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddMvc(options => options.EnableEndpointRouting = false).SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env, IBackgroundJobClient backgroundJobs)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
             {
@@ -56,18 +56,22 @@ namespace hangfire
             }
             else
             {
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
 
             app.UseHangfireDashboard();
-            // immediate jobs
-            //backgroundJobs.Enqueue(() => MyService.DoSomething());
-
-            // delayed after time interval
-            backgroundJobs.Schedule(
-            () => MyService.DoSomething(),
-            TimeSpan.FromMinutes(1));
+            // Enqueue a sample delayed job (requires SQL Server to be available)
+            try
+            {
+                BackgroundJob.Schedule(
+                    () => MyService.DoSomething(),
+                    TimeSpan.FromMinutes(1));
+            }
+            catch (Exception ex)
+            {
+                // DB may not be available in dev; schedule via controller when ready
+                Console.WriteLine($"Hangfire schedule skipped: {ex.Message}");
+            }
 
             app.UseHttpsRedirection();
             app.UseMvc();

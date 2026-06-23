@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -14,7 +14,7 @@ namespace Empty_Template
         public void ConfigureServices(IServiceCollection services)
         {
             // you have to configure theses services because mvc depends on them
-            services.AddMvc();
+            services.AddMvc(options => options.EnableEndpointRouting = false);
 
             // this is for the inject in the view
             services.AddTransient<Helper>();

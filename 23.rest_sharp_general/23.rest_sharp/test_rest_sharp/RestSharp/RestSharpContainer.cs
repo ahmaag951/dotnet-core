@@ -4,7 +4,6 @@ using RestSharp;
 using System.Net;
 using System.Threading;
 using System.Threading.Tasks;
-using RestSharp.Serialization.Json;
 using Microsoft.AspNetCore.Http;
 
 namespace test_rest_sharp.RestSharp
@@ -19,13 +18,16 @@ namespace test_rest_sharp.RestSharp
         {
             _httpContextAccessor = new HttpContextAccessor();
             _serverUri = serverUri;
-            _client = new RestClient { Timeout = Timeout.Infinite, ReadWriteTimeout = Timeout.Infinite };
+            var options = new RestClientOptions(serverUri)
+            {
+                MaxTimeout = Timeout.Infinite
+            };
+            _client = new RestClient(options);
         }
+
         public async Task<T> GetRequest<T>(string uri, Method method)
         {
-            _client.CookieContainer = new CookieContainer();
             var request = new RestRequest($"{_serverUri}{uri}", method);
-
             request.AddHeader("lang", _httpContextAccessor?.HttpContext?.Request?.Headers["lang"] ?? "en-US");
             var response = await _client.ExecuteAsync<T>(request);
             T data;
@@ -34,25 +36,15 @@ namespace test_rest_sharp.RestSharp
             return data == null ? response.Data : data;
         }
 
-        public async Task SendRequest<T>(string uri, Method method, T obj)
+        public async Task SendRequest<T>(string uri, Method method, T obj) where T : class
         {
-            _client.CookieContainer = new CookieContainer();
             var request = new RestRequest($"{_serverUri}{uri}", method);
-            if (method == Method.POST || method == Method.PUT)
+            if (method == Method.Post || method == Method.Put)
             {
-                SetJsonContent(request, obj);
                 request.AddJsonBody(obj);
             }
             request.AddHeader("lang", _httpContextAccessor?.HttpContext?.Request?.Headers["lang"] ?? "en-US");
-            await _client.ExecuteAsync<T>(request);            
+            await _client.ExecuteAsync<T>(request);
         }
-
-        private void SetJsonContent(RestRequest request, object obj)
-        {
-            request.RequestFormat = DataFormat.Json;
-            request.JsonSerializer = NewtonsoftJsonSerializer.Default;
-            request.AddJsonBody(obj);
-        }
-
     }
 }

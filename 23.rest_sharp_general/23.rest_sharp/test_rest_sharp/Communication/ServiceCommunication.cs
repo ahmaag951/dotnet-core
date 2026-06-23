@@ -14,17 +14,17 @@ namespace test_rest_sharp.Communication
         }
         public async Task<IEnumerable<T>> GetList<T>(string url)
         {
-            var result = await _restSharpContainer.GetRequest<IEnumerable<T>>($"{url}", global::RestSharp.Method.GET);
+            var result = await _restSharpContainer.GetRequest<IEnumerable<T>>($"{url}", global::RestSharp.Method.Get);
             return result;
         }
 
-        public async Task Post<T>(string url, T obj)
+        public async Task Post<T>(string url, T obj) where T : class
         {
-            await _restSharpContainer.SendRequest($"{url}", global::RestSharp.Method.POST, obj);            
+            await _restSharpContainer.SendRequest($"{url}", global::RestSharp.Method.Post, obj);            
         }
         public async Task<T> Get<T>(string url)
         {
-            var result = await _restSharpContainer.GetRequest<T>($"{url}", global::RestSharp.Method.GET);
+            var result = await _restSharpContainer.GetRequest<T>($"{url}", global::RestSharp.Method.Get);
             return result;
         }
     }

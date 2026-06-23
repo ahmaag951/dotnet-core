@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
@@ -42,7 +42,7 @@ namespace test_core_resources
                     return new ProviderCultureResult(string.IsNullOrWhiteSpace(lang) ? "ar-EG" : lang);
                 }));
             });
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2)
+            services.AddMvc(options => options.EnableEndpointRouting = false).SetCompatibilityVersion(CompatibilityVersion.Version_2_2)
                 // this need to be added
                 .AddDataAnnotationsLocalization();
 

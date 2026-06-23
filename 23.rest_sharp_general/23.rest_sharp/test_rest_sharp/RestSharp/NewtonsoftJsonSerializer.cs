@@ -1,55 +1,32 @@
 ﻿using Newtonsoft.Json;
 using System.IO;
-using RestSharp;
-using RestSharp.Deserializers;
-using RestSharp.Serializers;
 
 namespace test_rest_sharp.RestSharp
 {
-    public class NewtonsoftJsonSerializer : ISerializer//, IDeserializer
+    /// <summary>
+    /// Helper that wraps Newtonsoft.Json serialization for use with RestSharp bodies.
+    /// </summary>
+    public class NewtonsoftJsonSerializer
     {
-        private Newtonsoft.Json.JsonSerializer serializer;
+        private readonly JsonSerializer _serializer;
 
-        public NewtonsoftJsonSerializer(Newtonsoft.Json.JsonSerializer serializer)
+        public NewtonsoftJsonSerializer(JsonSerializer serializer)
         {
-            this.serializer = serializer;
+            _serializer = serializer;
         }
-
-        public string ContentType
-        {
-            get { return "application/json"; } // Probably used for Serialization?
-            set { }
-        }
-
-        public string DateFormat { get; set; }
-
-        public string Namespace { get; set; }
-
-        public string RootElement { get; set; }
 
         public string Serialize(object obj)
         {
-            using (var stringWriter = new StringWriter())
-            {
-                using (var jsonTextWriter = new JsonTextWriter(stringWriter))
-                {
-                    serializer.Serialize(jsonTextWriter, obj);
-
-                    return stringWriter.ToString();
-                }
-            }
+            using var sw = new StringWriter();
+            using var writer = new JsonTextWriter(sw);
+            _serializer.Serialize(writer, obj);
+            return sw.ToString();
         }
 
-
-        public static NewtonsoftJsonSerializer Default
-        {
-            get
+        public static NewtonsoftJsonSerializer Default =>
+            new NewtonsoftJsonSerializer(new JsonSerializer
             {
-                return new NewtonsoftJsonSerializer(new Newtonsoft.Json.JsonSerializer()
-                {
-                    NullValueHandling = NullValueHandling.Ignore,
-                });
-            }
-        }
+                NullValueHandling = NullValueHandling.Ignore
+            });
     }
 }

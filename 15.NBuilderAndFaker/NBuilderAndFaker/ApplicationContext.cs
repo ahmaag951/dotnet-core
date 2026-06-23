@@ -8,7 +8,7 @@ namespace NBuilderAndFaker
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=192.168.3.250\\sqlserver2017;Database=TestFakeData;User ID=sa;Password=P@ssw0rd;Trusted_Connection=False;ConnectRetryCount=0");
+            optionsBuilder.UseSqlServer("Server=192.168.3.250\\sqlserver2017;Database=TestFakeData;User ID=sa;Password=P@ssw0rd;Trusted_Connection=False;ConnectRetryCount=0;TrustServerCertificate=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

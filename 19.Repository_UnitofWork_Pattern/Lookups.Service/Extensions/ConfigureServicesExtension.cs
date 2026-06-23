@@ -17,7 +17,7 @@ namespace Lookups.Service.Extensions
         public static IServiceCollection ServicesRegisterConfiguration(this IServiceCollection services, IConfiguration configuration)
         {
             services.DatabaseConfig(configuration);
-            services.AddAutoMapper();
+            services.AddAutoMapper(typeof(ConfigureServicesExtension).Assembly);
             services.ServicesConfig();
             services.DataAccessConfig();
             return services;
@@ -35,14 +35,14 @@ namespace Lookups.Service.Extensions
             var assemblyToScan = Assembly.GetAssembly(typeof(CountryService));
             services.RegisterAssemblyPublicNonGenericClasses(assemblyToScan)
               .Where(c => c.Name.EndsWith("Service"))
-              .AsPublicImplementedInterfaces().BuildServiceProvider();
+              .AsPublicImplementedInterfaces();
         }
         private static void DataAccessConfig(this IServiceCollection services)
         {
             var assemblyToScan = Assembly.GetAssembly(typeof(CountryRepository));
             services.RegisterAssemblyPublicNonGenericClasses(assemblyToScan)
               .Where(c => c.Name.EndsWith("Repository"))
-              .AsPublicImplementedInterfaces().BuildServiceProvider();
+              .AsPublicImplementedInterfaces();
         }
     }
 }

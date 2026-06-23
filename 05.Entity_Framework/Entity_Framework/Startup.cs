@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -25,13 +25,13 @@ namespace Entity_Framework
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddMvc(options => options.EnableEndpointRouting = false).SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             // this is special to entity framework
             services.AddDbContext<MyDatabaseContext>(options =>
             {
                 // it's better to get this connection string from the json configuration file
-                var connectionString = "Server=.\\MSSQLSERVER01;Database=testEntityFramework;Trusted_Connection=True;";
+                var connectionString = "Server=.;Database=testEntityFramework;Trusted_Connection=True;TrustServerCertificate=True;";
                 options.UseSqlServer(connectionString);
             });
         }
@@ -44,7 +44,6 @@ namespace Entity_Framework
             }
             else
             {
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
 
