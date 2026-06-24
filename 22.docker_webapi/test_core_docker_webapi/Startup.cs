@@ -17,6 +17,16 @@ namespace test_core_docker_webapi
 {
     public class Startup
     {
+        // Steps to run this app using Docker:
+        // 1. Make sure Docker Desktop is running
+        // 2. Open terminal in the solution root folder that contains the dockerfile
+        // 3. Build the image:
+        //    docker build -t test_core_docker_webapi -f test_core_docker_webapi/Dockerfile .
+        // 4. Run the container:
+        //    docker run -d -p 8080:5000 --name myapp test_core_docker_webapi
+        // 5. Access the API at: http://localhost:8080/api/values
+        // 6. Stop the container:  docker stop myapp
+        // 7. Remove the container: docker rm myapp
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
