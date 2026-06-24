@@ -10,6 +10,7 @@ namespace NBuilderAndFaker
         {
             var customers = Builder<Customer>.CreateListOfSize(100)
             .All()
+                .With(c => c.Id = 0)
                 .With(c => c.FirstName = Faker.Name.First())
                 .With(c => c.LastName = Faker.Name.Last())
                 .With(c => c.EmailAddress = Faker.Internet.Email())
