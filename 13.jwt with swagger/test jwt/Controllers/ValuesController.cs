@@ -33,7 +33,7 @@ namespace test_jwt.Controllers
 
             if (user.UserName == "admin" && user.Password == "admin")
             {
-                var secretKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("veryDifficultSuperSecretKey"));
+                var secretKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("veryDifficultSuperSecretKey!1234"));
                 var signinCredentials = new SigningCredentials(secretKey, SecurityAlgorithms.HmacSha256);
 
                 var tokeOptions = new JwtSecurityToken(

@@ -40,7 +40,7 @@ namespace test_jwt
 
                     ValidIssuer = "http://localhost:44364",
                     ValidAudience = "http://localhost:44364",
-                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("veryDifficultSuperSecretKey"))
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("veryDifficultSuperSecretKey!1234"))
                 };
             });
 
