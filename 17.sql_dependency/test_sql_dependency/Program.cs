@@ -5,14 +5,14 @@ namespace test_sql_dependency
 {
     class Program
     {
-        static string connectionString = "Server=.;Database=test_sql_dependency;Integrated Security=True;";
+        static string connectionString = "Server=.;Database=testEntityFramework;Integrated Security=True;";
 
         static void Main(string[] args)
         {
             // 1. create database
 
             // 2. enable service broker by executing this sql command on the database.
-            // alter database test_sql_dependency set enable_broker
+            // ALTER DATABASE testEntityFramework SET ENABLE_BROKER WITH ROLLBACK IMMEDIATE
 
             // 3. start sql dependency, for some sql server connection string or with queue if you want.
 
@@ -40,7 +40,7 @@ namespace test_sql_dependency
 
                 // 4. create a sql command 
                 // you can't say select *, and also you have to specefy the db owner (dbo.)
-                SqlCommand command = new SqlCommand("select Id, Name from dbo.Employee", connection);
+                SqlCommand command = new SqlCommand("select Id, Name from dbo.Employees", connection);
 
                 // 5. create dependency and associtate it to the sql command
                 SqlDependency dependency = new SqlDependency(command);
