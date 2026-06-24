@@ -1,5 +1,5 @@
 {
-  "ReRoutes": [
+  "Routes": [
     {
       "DownstreamPathTemplate": "/api/values/getall",
       "DownstreamScheme": "http",
@@ -13,6 +13,6 @@
     }
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "https://localhost:55696"
+    "BaseUrl": "http://localhost:55696"
   }
 }
