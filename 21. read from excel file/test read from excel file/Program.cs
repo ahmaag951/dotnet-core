@@ -14,7 +14,8 @@ namespace test_read_from_excel_file
     {
         public static void Main(string[] args)
         {
-            string filePath = @"C:\test.xlsx";
+            string projectDir = System.IO.Path.GetFullPath(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..", "..", ".."));
+            string filePath = System.IO.Path.Combine(projectDir, "files", "test.xlsx");
 
             if (!System.IO.File.Exists(filePath))
             {
